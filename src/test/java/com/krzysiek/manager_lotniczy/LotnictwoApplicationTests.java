@@ -1,4 +1,4 @@
-package com.krzysiek.lotnictwo;
+package com.krzysiek.manager_lotniczy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,0 +1,21 @@
+.pagination .page-link {
+    background: black;
+    color: white;
+}
+
+.container.centered-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.horizontal-padding {
+    padding: 0 2em;
+}
+
+.horizontal-flex {
+    display: flex;
+}
+
+.mousePointer {
+    cursor: pointer;
+}
